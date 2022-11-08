@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Laravel at Centro ¡Supérate! Hilasal
+
 <!--
 **Alexander-503/Alexander-503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
