@@ -1,7 +1,7 @@
 ### Hello world! 🌍
 
 - 💻 I learnt Laravel at Centro ¡Supérate! Hilasal (2022)
-- 🎧 I´m a Backend Developer & FrontEnd Delevoper at Altempo. 
+- 🎧 I worked as a Backend Developer & FrontEnd Delevoper at Altempo. 
 - 👯 I love helping my friends and teaching them what I know.
 - 😄 I'm a little programmer.
 
